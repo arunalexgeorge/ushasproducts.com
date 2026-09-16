@@ -20,7 +20,7 @@ Static HTML/CSS — no build step. Open `index.html` in a browser to preview loc
 
 - **Products** — each item is a `<li class="card">` in `index.html`; copy one to add a product.
 - **Contact details** — phone, WhatsApp and email are in the `#order` section of `index.html`
-  and are currently **placeholders** (`+91 00000 00000`, `hello@ushasproducts.com`).
+  and are currently **placeholders** (`+91 00000 00000`, `customercare@ushasproducts.com`).
 - **Colours** — the CSS variables at the top of `assets/css/styles.css`.
 
 ## Custom domain

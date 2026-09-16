@@ -277,3 +277,7 @@ a { color: inherit; }
   html { scroll-behavior: auto; }
   * { transition: none !important; animation: none !important; }
 }
+
+/* the email address is long — keep it from crowding its card */
+.contact-email { font-size: 17px; letter-spacing: -.005em; }
+@media (max-width: 400px) { .contact-email { font-size: 15px; } }
