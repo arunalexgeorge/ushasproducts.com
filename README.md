@@ -3,7 +3,7 @@
 One-page website for **Usha's Products** — homemade Kerala pickles, spice powders,
 coconut oil, cow ghee and snacks.
 
-Live site: https://arunalexgeorge.github.io/ushasproducts.com/
+Live site: https://ushasproducts.com
 
 ## Structure
 
